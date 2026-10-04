@@ -2,7 +2,7 @@
 
 A full-stack personal finance management application that allows users to securely track income and expenses, analyze spending patterns, and manage recurring transactions.
 
-🔗 **Live Demo:** https://YOUR-VERCEL-URL.vercel.app  
+🔗 **Live Demo:** [https://YOUR-VERCEL-URL.vercel.app  ](https://expense-tracker-beryl-three-83.vercel.app/)
 🔗 **GitHub:** https://github.com/Mahanth-Mavuri/expense-tracker
 
 ---
